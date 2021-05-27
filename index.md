@@ -2,7 +2,7 @@
 
 
 ### Learn html
-# Header 1
+# free and easy.
 ### html stands for hyper text markup language witch means it only needs a text editor.
 ##learn web coding
 <p>html</p>
